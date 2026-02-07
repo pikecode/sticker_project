@@ -1,10 +1,3 @@
-# 子项目代码（由子项目自己的 Git 管理）
-sticker/
-
-# AI 工具目录
-.serena/
-.spec-workflow/
-
 # 系统文件
 .DS_Store
 node_modules/
